@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+.idea
+shournal_to_snakemake.egg-info
+build
+dist
