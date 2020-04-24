@@ -24,6 +24,7 @@ setuptools.setup(
     author_email="tychokirchner@mail.de",
     description="Transform a command series from shournal into Snakemake rules",
     long_description=long_description,
+    long_description_content_type="text/markdown",
     url="https://github.com/snakemake/shournal-to-snakemake",
     packages=packages,
     license='MIT',

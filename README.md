@@ -57,6 +57,14 @@ rule undefined_2:
   
 
 ## Installation
+
+### PyPi
+Install from PyPi by executing the following command in a terminal:
+```
+pip install shournal-to-snakemake
+```
+
+### From Source
 Create a wheel directly from source by executing
 ```
 python3 setup.py sdist bdist_wheel
